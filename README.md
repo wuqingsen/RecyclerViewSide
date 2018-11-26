@@ -1,7 +1,7 @@
 # RecyclerViewSide
 RecyclerView侧滑实现删除、置顶等功能
 
-先看设计图：
+先看设计图（ps用不大好，凑合看效果图吧，哈）：
 
 ![1](https://github.com/wuqingsen/RecyclerViewSide/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/1.png)
 
